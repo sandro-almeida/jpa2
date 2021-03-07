@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaMovimentacoesFiltradasPorDataCriteria",
+            "request": "launch",
+            "mainClass": "br.com.alura.jpa.testes.TestaMovimentacoesFiltradasPorDataCriteria",
+            "projectName": "projeto-jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaSomaDasMovimentacoesComCriteria",
+            "request": "launch",
+            "mainClass": "br.com.alura.jpa.testes.TestaSomaDasMovimentacoesComCriteria",
+            "projectName": "projeto-jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaSomaDasMovimentacoesV2",
+            "request": "launch",
+            "mainClass": "br.com.alura.jpa.testes.TestaSomaDasMovimentacoesV2",
+            "projectName": "projeto-jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaNativeQuery",
+            "request": "launch",
+            "mainClass": "br.com.alura.jpa.testes.TestaNativeQuery",
+            "projectName": "projeto-jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaMediaDiariaDasMovimentacoes",
+            "request": "launch",
+            "mainClass": "br.com.alura.jpa.testes.TestaMediaDiariaDasMovimentacoes",
+            "projectName": "projeto-jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaSomaDasMovimentacoes",
+            "request": "launch",
+            "mainClass": "br.com.alura.jpa.testes.TestaSomaDasMovimentacoes",
+            "projectName": "projeto-jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaRelatorioDasMovimentacoes",
+            "request": "launch",
+            "mainClass": "br.com.alura.jpa.testes.TestaRelatorioDasMovimentacoes",
+            "projectName": "projeto-jpa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaMovimentacaoConta",
+            "request": "launch",
+            "mainClass": "br.com.alura.jpa.testes.TestaMovimentacaoConta",
+            "projectName": "projeto-jpa"
+        }
+    ]
+}
